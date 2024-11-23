@@ -8,3 +8,4 @@
 
 **Abstract/Resumo:** O projeto explora os dados existentes sobre pegadas de carbono globais e nacionais, com foco no Brasil. Utiliza dois datasets, como explicado em "Introdução ao Projeto" e integra a análise dessas bases com dez perguntas a serem respondidas.
 
+**Link do Google Colab:** https://colab.research.google.com/drive/1266-vZUKiinmNmjQMYNqMvnuPH-kTYAq?usp=sharing
